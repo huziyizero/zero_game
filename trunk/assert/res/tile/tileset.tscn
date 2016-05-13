@@ -13,38 +13,40 @@
 custom_solver_bias = 0.0
 segments = Vector2Array( -42.6686, -27.4026, -43.1563, 27.217, -43.1563, 27.217, 43.5417, 28.6858, 43.5417, 28.6858, 43.1622, -27.8903, 43.1622, -27.8903, -42.6686, -27.4026 )
 
-[sub_resource type="ConvexPolygonShape2D" id=6]
+[sub_resource type="ConvexPolygonShape2D" id=2]
 
 custom_solver_bias = 0.0
 points = Vector2Array( 43.2683, -14.6902, 44.2437, 17.0087, -41.0995, 16.0333, -42.5625, -13.2272 )
 
-[sub_resource type="ConvexPolygonShape2D" id=5]
+[sub_resource type="ConvexPolygonShape2D" id=3]
 
 custom_solver_bias = 0.0
 points = Vector2Array( 43.8406, -45.7782, 45.4617, 47.1638, -42.0766, 46.6234, -42.617, 15.2825 )
 
-[sub_resource type="ConvexPolygonShape2D" id=8]
+[sub_resource type="ConvexPolygonShape2D" id=4]
 
 custom_solver_bias = 0.0
 points = Vector2Array( 44.3723, 16.6354, 45.4617, 47.1638, -42.0766, 46.6234, -43.0433, -43.837 )
 
-[sub_resource type="ConvexPolygonShape2D" id=7]
+[sub_resource type="ConvexPolygonShape2D" id=5]
 
 custom_solver_bias = 0.0
 points = Vector2Array( 43.297, -13.1918, 43.297, 15.9987, -41.6208, 15.3352, -42.2843, -13.1918 )
 
-[node name="Node2D" type="Node2D"]
+[node name="Node2D" type="Node"]
 
 [node name="wall" type="Sprite" parent="."]
 
 transform/pos = Vector2( 166.815, 167.12 )
 texture = ExtResource( 1 )
+region_rect = Rect2( 0, 0, 90, 60 )
+__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall"]
 
 input/pickable = false
 shapes/0/shape = SubResource( 1 )
-shapes/0/transform = Matrix32( 1, -0, 0, 1, 0, 0 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
 collision/mask = 1
@@ -64,12 +66,14 @@ trigger = false
 
 transform/pos = Vector2( 166.573, 118.001 )
 texture = ExtResource( 2 )
+region_rect = Rect2( 0, 0, 90, 60 )
+__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall1"]
 
 input/pickable = false
-shapes/0/shape = SubResource( 6 )
-shapes/0/transform = Matrix32( 1, -0, 0, 1, 0, 0 )
+shapes/0/shape = SubResource( 2 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
 collision/mask = 1
@@ -89,12 +93,13 @@ trigger = false
 
 transform/pos = Vector2( 77.1578, 149.091 )
 texture = ExtResource( 3 )
+__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall2"]
 
 input/pickable = false
-shapes/0/shape = SubResource( 5 )
-shapes/0/transform = Matrix32( 1, -0, 0, 1, 0, 0 )
+shapes/0/shape = SubResource( 3 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
 collision/mask = 1
@@ -114,12 +119,13 @@ trigger = false
 
 transform/pos = Vector2( 502.989, 172.246 )
 texture = ExtResource( 4 )
+__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall3"]
 
 input/pickable = false
-shapes/0/shape = SubResource( 8 )
-shapes/0/transform = Matrix32( 1, -0, 0, 1, 0, 0 )
+shapes/0/shape = SubResource( 4 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
 collision/mask = 1
@@ -149,12 +155,13 @@ texture = ExtResource( 6 )
 
 transform/pos = Vector2( 256.197, 117.845 )
 texture = ExtResource( 7 )
+__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall6"]
 
 input/pickable = false
-shapes/0/shape = SubResource( 7 )
-shapes/0/transform = Matrix32( 1, -0, 0, 1, 0, 0 )
+shapes/0/shape = SubResource( 5 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
 collision/mask = 1

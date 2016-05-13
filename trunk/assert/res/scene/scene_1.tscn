@@ -1,0 +1,115 @@
+[gd_scene load_steps=10 format=1]
+
+[ext_resource path="res://res/scene/sprite/2/back.7.png" type="Texture" id=1]
+[ext_resource path="res://res/scene/sprite/2/back.15.png" type="Texture" id=2]
+[ext_resource path="res://res/scene/sprite/2/back.13.png" type="Texture" id=3]
+[ext_resource path="res://res/scene/sprite/2/back.20.png" type="Texture" id=4]
+[ext_resource path="res://res/scene/sprite/2/back.14.png" type="Texture" id=5]
+[ext_resource path="res://res/scene/sprite/2/back.21.png" type="Texture" id=6]
+[ext_resource path="res://res/scene/sprite/1/back.17.png" type="Texture" id=7]
+[ext_resource path="res://res/scene/sprite/1/back.19.png" type="Texture" id=8]
+[ext_resource path="res://res/tile/tileset.tres" type="TileSet" id=9]
+
+[node name="Node2D" type="Node2D"]
+
+transform/pos = Vector2( 514.416, 487.693 )
+
+[node name="Sprite13" type="Sprite" parent="."]
+
+transform/pos = Vector2( -150.59, -341.176 )
+transform/scale = Vector2( 254.813, 5.80982 )
+texture = ExtResource( 1 )
+
+[node name="Sprite9" type="Sprite" parent="."]
+
+transform/pos = Vector2( 751.52, -145.182 )
+texture = ExtResource( 2 )
+
+[node name="Sprite11" type="Sprite" parent="."]
+
+transform/pos = Vector2( -46.0425, -146.542 )
+texture = ExtResource( 2 )
+
+[node name="Sprite12" type="Sprite" parent="."]
+
+transform/pos = Vector2( -445.216, -153.223 )
+texture = ExtResource( 2 )
+
+[node name="Sprite10" type="Sprite" parent="."]
+
+transform/pos = Vector2( 351.57, -146.542 )
+texture = ExtResource( 2 )
+
+[node name="Sprite 2" type="Sprite" parent="."]
+
+transform/pos = Vector2( 454.959, -336.995 )
+texture = ExtResource( 3 )
+
+[node name="Sprite7" type="Sprite" parent="."]
+
+transform/pos = Vector2( 806.116, -276.333 )
+texture = ExtResource( 4 )
+
+[node name="Sprite6" type="Sprite" parent="."]
+
+transform/pos = Vector2( -115.68, -308.889 )
+texture = ExtResource( 5 )
+
+[node name="Sprite8" type="Sprite" parent="."]
+
+transform/pos = Vector2( -687.317, -337.097 )
+texture = ExtResource( 6 )
+
+[node name="Sprite3" type="Sprite" parent="."]
+
+transform/pos = Vector2( 350.319, -82.135 )
+texture = ExtResource( 7 )
+
+[node name="Sprite5" type="Sprite" parent="."]
+
+transform/pos = Vector2( -847.781, -84.5597 )
+texture = ExtResource( 7 )
+
+[node name="Sprite4" type="Sprite" parent="."]
+
+transform/pos = Vector2( -285.897, -94.8748 )
+texture = ExtResource( 8 )
+
+[node name="TileMap" type="TileMap" parent="."]
+
+mode = 0
+tile_set = ExtResource( 9 )
+cell/size = Vector2( 90, 60 )
+cell/quadrant_size = 16
+cell/custom_transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+cell/half_offset = 2
+cell/tile_origin = 0
+cell/y_sort = false
+collision/use_kinematic = false
+collision/friction = 1.0
+collision/bounce = 0.0
+collision/layers = 1
+collision/mask = 1
+occluder/light_mask = 1
+tile_data = IntArray( 65520, 0, 65521, 0, 65522, 0, 65523, 0, 65524, 0, 65525, 0, 65526, 0, 65527, 0, 65528, 0, 65529, 0, 65530, 0, 65531, 0, 65532, 0, 65533, 0, 65534, 0, 65535, 0, 0, 0, 1, 0, 2, 0, 3, 0, 4, 0, 5, 0, 6, 0, 7, 0, 8, 0, 9, 0, 10, 0, 11, 0, 12, 0, 13, 0, 131056, 0, 131057, 0, 131058, 0, 131059, 0, 131060, 0, 131061, 0, 131062, 0, 131063, 0, 131064, 0, 131065, 0, 131066, 0, 131067, 0, 131068, 0, 131069, 0, 131070, 0, 131071, 0, 65536, 0, 65537, 0, 65538, 0, 65539, 0, 65540, 0, 65541, 0, 65542, 0, 65543, 0, 65544, 0, 65545, 0, 65546, 0, 65547, 0, 65548, 0, 65549, 0, 196592, 0, 196593, 0, 196594, 0, 196595, 0, 196596, 0, 196597, 0, 196598, 0, 196599, 0, 196600, 0, 196601, 0, 196602, 0, 196603, 0, 196604, 0, 196605, 0, 196606, 0, 196607, 0, 131072, 0, 131073, 0, 131074, 0, 131075, 0, 131076, 0, 131077, 0, 131078, 0, 131079, 0, 131080, 0, 131081, 0, 131082, 0, 131083, 0, 131084, 0, 131085, 0, 262128, 0, 262129, 0, 262130, 0, 262131, 0, 262132, 0, 262133, 0, 262134, 0, 262135, 0, 262136, 0, 262137, 0, 262138, 0, 262139, 0, 262140, 0, 262141, 0, 262142, 0, 262143, 0, 196608, 0, 196609, 0, 196610, 0, 196611, 0, 196612, 0, 196613, 0, 196614, 0, 196615, 0, 196616, 0, 196617, 0, 196618, 0, 196619, 0, 196620, 0, 196621, 0, 327664, 0, 327665, 0, 327666, 0, 327667, 0, 327668, 0, 327669, 0, 327670, 0, 327671, 0, 327672, 0, 327673, 0, 327674, 0, 327675, 0, 327676, 0, 327677, 0, 327678, 0, 327679, 0, 262144, 0, 262145, 0, 262146, 0, 262147, 0, 262148, 0, 262149, 0, 262150, 0, 262151, 0, 262152, 0, 262153, 0, 262154, 0, 262155, 0, 262156, 0, 262157, 0 )
+
+[node name="TileMap 2" type="TileMap" parent="."]
+
+transform/pos = Vector2( -212.113, 0 )
+mode = 0
+tile_set = ExtResource( 9 )
+cell/size = Vector2( 90, 36 )
+cell/quadrant_size = 16
+cell/custom_transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+cell/half_offset = 2
+cell/tile_origin = 0
+cell/y_sort = false
+collision/use_kinematic = false
+collision/friction = 1.0
+collision/bounce = 0.0
+collision/layers = 1
+collision/mask = 1
+occluder/light_mask = 1
+tile_data = IntArray( -16, 1, -15, 1, -14, 1, -13, 1, -12, 1, -11, 1, -10, 1, -9, 1, -8, 1, -7, 1, -6, 6, -5, 6, -4, 6, -3, 6, -2, 6, -1, 6, -65536, 6, -65535, 6, -65534, 6, -65533, 6, -65532, 6, -65531, 1, -65530, 1, -65529, 1, -65528, 1, -65527, 1, -65526, 1, -65525, 1, -65524, 1, -65523, 1, -65522, 1, -65521, 1, -65520, 1 )
+
+
