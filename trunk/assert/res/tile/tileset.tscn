@@ -13,10 +13,10 @@
 custom_solver_bias = 0.0
 segments = Vector2Array( -42.6686, -27.4026, -43.1563, 27.217, -43.1563, 27.217, 43.5417, 28.6858, 43.5417, 28.6858, 43.1622, -27.8903, 43.1622, -27.8903, -42.6686, -27.4026 )
 
-[sub_resource type="ConvexPolygonShape2D" id=2]
+[sub_resource type="ConvexPolygonShape2D" id=6]
 
 custom_solver_bias = 0.0
-points = Vector2Array( 43.2683, -14.6902, 44.2437, 17.0087, -41.0995, 16.0333, -42.5625, -13.2272 )
+points = Vector2Array( 46.781, -16.7076, 45.5572, 17.9076, -45.0017, 17.7327, -46.9248, -16.5328 )
 
 [sub_resource type="ConvexPolygonShape2D" id=3]
 
@@ -31,7 +31,7 @@ points = Vector2Array( 44.3723, 16.6354, 45.4617, 47.1638, -42.0766, 46.6234, -4
 [sub_resource type="ConvexPolygonShape2D" id=5]
 
 custom_solver_bias = 0.0
-points = Vector2Array( 43.297, -13.1918, 43.297, 15.9987, -41.6208, 15.3352, -42.2843, -13.1918 )
+points = Vector2Array( 47.3753, -16.5286, 43.8956, 17.479, -44.2851, 16.6031, -48.1049, -16.2366 )
 
 [node name="Node2D" type="Node"]
 
@@ -64,15 +64,14 @@ trigger = false
 
 [node name="wall1" type="Sprite" parent="."]
 
-transform/pos = Vector2( 166.573, 118.001 )
+transform/pos = Vector2( 168.496, 97.8962 )
 texture = ExtResource( 2 )
 region_rect = Rect2( 0, 0, 90, 60 )
-__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall1"]
 
 input/pickable = false
-shapes/0/shape = SubResource( 2 )
+shapes/0/shape = SubResource( 6 )
 shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
 shapes/0/trigger = false
 collision/layers = 1
@@ -85,7 +84,7 @@ bounce = 0.0
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="wall1/StaticBody2D"]
 
 build_mode = 0
-polygon = Vector2Array( -42.5625, -13.2272, -41.0995, 16.0333, 44.2437, 17.0087, 43.2683, -14.6902 )
+polygon = Vector2Array( -46.9248, -16.5328, -45.0017, 17.7327, 45.5572, 17.9076, 46.781, -16.7076 )
 shape_range = Vector2( 0, 0 )
 trigger = false
 
@@ -153,9 +152,8 @@ texture = ExtResource( 6 )
 
 [node name="wall6" type="Sprite" parent="."]
 
-transform/pos = Vector2( 256.197, 117.845 )
+transform/pos = Vector2( 262.037, 117.553 )
 texture = ExtResource( 7 )
-__meta__ = { "_editor_collapsed":true }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="wall6"]
 
@@ -173,7 +171,7 @@ bounce = 0.0
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="wall6/StaticBody2D"]
 
 build_mode = 0
-polygon = Vector2Array( -42.2843, -13.1918, -41.6208, 15.3352, 43.297, 15.9987, 43.297, -13.1918 )
+polygon = Vector2Array( -48.1049, -16.2366, -44.2851, 16.6031, 43.8956, 17.479, 47.3753, -16.5286 )
 shape_range = Vector2( 0, 0 )
 trigger = false
 
