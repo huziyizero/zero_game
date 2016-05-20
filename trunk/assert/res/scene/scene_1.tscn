@@ -127,7 +127,7 @@ tile_data = IntArray( 65520, 0, 65521, 0, 65522, 0, 65523, 0, 65524, 0, 65525, 0
 
 [node name="TileMap 2" type="TileMap" parent="."]
 
-transform/pos = Vector2( -212.113, 0 )
+transform/pos = Vector2( -496.473, 0 )
 mode = 0
 tile_set = ExtResource( 8 )
 cell/size = Vector2( 90, 36 )
