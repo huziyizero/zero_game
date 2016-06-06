@@ -1,0 +1,185 @@
+[gd_scene load_steps=5 format=1]
+
+[ext_resource path="res://scripts/hero/hero.gd" type="Script" id=1]
+[ext_resource path="res://res/role/hero/hero_front.json" type="SpineResource" id=2]
+[ext_resource path="res://res/role/hero/hero_side.json" type="SpineResource" id=3]
+[ext_resource path="res://res/role/hero/hero_back.json" type="SpineResource" id=4]
+
+[node name="Node2D" type="Node2D"]
+
+transform/pos = Vector2( 527.567, 474.885 )
+transform/scale = Vector2( 2, 2 )
+script/script = ExtResource( 1 )
+
+[node name="spine_front" type="Spine" parent="."]
+
+playback/process_mode = 0
+playback/speed = 1.0
+playback/active = true
+debug/bones = false
+modulate = Color( 1, 1, 1, 1 )
+flip_x = false
+flip_y = false
+resource = ExtResource( 2 )
+playback/play = "move"
+playback/loop = true
+playback/forward = true
+playback/skin = "3019"
+debug/region = false
+debug/mesh = false
+debug/skinned_mesh = false
+debug/bounding_box = false
+
+[node name="spine_side" type="Spine" parent="."]
+
+transform/pos = Vector2( -81.6222, -5.4415 )
+playback/process_mode = 0
+playback/speed = 1.0
+playback/active = true
+debug/bones = false
+modulate = Color( 1, 1, 1, 1 )
+flip_x = false
+flip_y = false
+resource = ExtResource( 3 )
+playback/play = "move"
+playback/loop = true
+playback/forward = true
+playback/skin = "3019"
+debug/region = false
+debug/mesh = false
+debug/skinned_mesh = false
+debug/bounding_box = false
+
+[node name="spine_back" type="Spine" parent="."]
+
+transform/pos = Vector2( -178.889, -1.36037 )
+playback/process_mode = 0
+playback/speed = 1.0
+playback/active = true
+debug/bones = false
+modulate = Color( 1, 1, 1, 1 )
+flip_x = false
+flip_y = false
+resource = ExtResource( 4 )
+playback/play = "move"
+playback/loop = true
+playback/forward = true
+playback/skin = "3019"
+debug/region = false
+debug/mesh = false
+debug/skinned_mesh = false
+debug/bounding_box = false
+
+[node name="eye" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 69.0
+margin/top = -158.0
+margin/right = 112.0
+margin/bottom = -139.0
+toggle_mode = false
+text = "eye"
+flat = false
+
+[node name="helm" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 70.0
+margin/top = -126.0
+margin/right = 113.0
+margin/bottom = -107.0
+toggle_mode = false
+text = "helm"
+flat = false
+
+[node name="helm2" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 69.0
+margin/top = -94.0
+margin/right = 116.0
+margin/bottom = -75.0
+toggle_mode = false
+text = "helm2"
+flat = false
+
+[node name="weapon" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 68.0
+margin/top = -66.0
+margin/right = 125.0
+margin/bottom = -47.0
+toggle_mode = false
+text = "weapon"
+flat = false
+
+[node name="blood_head" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 67.0
+margin/top = -41.0
+margin/right = 144.0
+margin/bottom = -22.0
+toggle_mode = false
+text = "blood_head"
+flat = false
+
+[node name="blood_body" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 67.0
+margin/top = -14.0
+margin/right = 144.0
+margin/bottom = 5.0
+toggle_mode = false
+text = "blood_body"
+flat = false
+
+[node name="skin" type="Button" parent="."]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 66.0
+margin/top = 12.0
+margin/right = 143.0
+margin/bottom = 31.0
+toggle_mode = false
+text = "skin"
+flat = false
+
+[connection signal="pressed" from="eye" to="." method="_on_eye_pressed"]
+
+[connection signal="pressed" from="helm" to="." method="_on_helm_pressed"]
+
+[connection signal="pressed" from="helm2" to="." method="_on_helm2_pressed"]
+
+[connection signal="pressed" from="weapon" to="." method="_on_weapon_pressed"]
+
+[connection signal="pressed" from="blood_head" to="." method="_on_blood_head_pressed"]
+
+[connection signal="pressed" from="blood_body" to="." method="_on_blood_body_pressed"]
+
+[connection signal="pressed" from="skin" to="." method="_on_skin_pressed"]
+
+

@@ -1,0 +1,2538 @@
+hero_back.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+cloth/3001/hero-back-cloth-3001-01
+  rotate: false
+  xy: 1673, 158
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-02
+  rotate: false
+  xy: 2005, 177
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-03
+  rotate: true
+  xy: 1547, 216
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-04
+  rotate: false
+  xy: 1995, 209
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-05
+  rotate: false
+  xy: 1993, 177
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-06
+  rotate: true
+  xy: 450, 170
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-07
+  rotate: false
+  xy: 1999, 160
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+cloth/3001/hero-back-cloth-3001-08
+  rotate: true
+  xy: 1519, 69
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+cloth/3002/hero-back-cloth-3002-01
+  rotate: true
+  xy: 548, 88
+  size: 19, 25
+  orig: 21, 25
+  offset: 1, 0
+  index: -1
+cloth/3002/hero-back-cloth-3002-02
+  rotate: false
+  xy: 674, 155
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+cloth/3002/hero-back-cloth-3002-03
+  rotate: false
+  xy: 495, 108
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+cloth/3002/hero-back-cloth-3002-05
+  rotate: true
+  xy: 430, 170
+  size: 9, 18
+  orig: 11, 19
+  offset: 1, 1
+  index: -1
+cloth/3002/hero-back-cloth-3002-06
+  rotate: false
+  xy: 1563, 213
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+cloth/3002/hero-back-cloth-3002-08
+  rotate: false
+  xy: 1673, 184
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-01
+  rotate: false
+  xy: 966, 200
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-02
+  rotate: false
+  xy: 2019, 195
+  size: 13, 15
+  orig: 13, 16
+  offset: 0, 1
+  index: -1
+cloth/3003/hero-back-cloth-3003-03
+  rotate: false
+  xy: 1435, 73
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-04
+  rotate: false
+  xy: 1850, 219
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-05
+  rotate: false
+  xy: 1815, 212
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-06
+  rotate: true
+  xy: 2038, 63
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-07
+  rotate: false
+  xy: 1948, 232
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+cloth/3003/hero-back-cloth-3003-08
+  rotate: false
+  xy: 1444, 231
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-01
+  rotate: false
+  xy: 1621, 153
+  size: 21, 23
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-02
+  rotate: true
+  xy: 1425, 208
+  size: 21, 30
+  orig: 21, 31
+  offset: 0, 1
+  index: -1
+cloth/3004/hero-back-cloth-3004-03
+  rotate: false
+  xy: 2039, 80
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-04
+  rotate: false
+  xy: 1977, 220
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-05
+  rotate: false
+  xy: 1563, 165
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-06
+  rotate: false
+  xy: 1691, 144
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-07
+  rotate: false
+  xy: 1524, 156
+  size: 11, 13
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cloth/3004/hero-back-cloth-3004-08
+  rotate: false
+  xy: 1507, 213
+  size: 22, 16
+  orig: 23, 17
+  offset: 1, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-01
+  rotate: true
+  xy: 1564, 225
+  size: 19, 25
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-02
+  rotate: true
+  xy: 1591, 225
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-03
+  rotate: true
+  xy: 1949, 208
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-04
+  rotate: false
+  xy: 1896, 232
+  size: 11, 12
+  orig: 12, 12
+  offset: 1, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-05
+  rotate: true
+  xy: 1359, 130
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-06
+  rotate: false
+  xy: 1980, 196
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+cloth/3005/hero-back-cloth-3005-08
+  rotate: false
+  xy: 1711, 143
+  size: 19, 13
+  orig: 21, 13
+  offset: 1, 0
+  index: -1
+cloth/3006/hero-back-cloth-3006-01
+  rotate: true
+  xy: 1488, 192
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+cloth/3006/hero-back-cloth-3006-03
+  rotate: false
+  xy: 1890, 217
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+cloth/3006/hero-back-cloth-3006-06
+  rotate: false
+  xy: 1965, 219
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cloth/3006/hero-back-cloth-3006-08
+  rotate: false
+  xy: 1028, 233
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+cloth/3007/hero-back-cloth-3007-01
+  rotate: true
+  xy: 1392, 227
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+cloth/3007/hero-back-cloth-3007-02
+  rotate: false
+  xy: 602, 132
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+cloth/3007/hero-back-cloth-3007-03
+  rotate: false
+  xy: 2023, 212
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+cloth/3007/hero-back-cloth-3007-06
+  rotate: false
+  xy: 1423, 130
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+cloth/3007/hero-back-cloth-3007-08
+  rotate: false
+  xy: 1516, 199
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-01
+  rotate: true
+  xy: 1457, 208
+  size: 21, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-02
+  rotate: false
+  xy: 1537, 165
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-03
+  rotate: false
+  xy: 563, 109
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-04
+  rotate: true
+  xy: 1996, 232
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-05
+  rotate: false
+  xy: 1537, 191
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-06
+  rotate: false
+  xy: 1835, 206
+  size: 15, 10
+  orig: 17, 10
+  offset: 2, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-07
+  rotate: false
+  xy: 1524, 156
+  size: 11, 13
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cloth/3008/hero-back-cloth-3008-08
+  rotate: false
+  xy: 1276, 196
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-01
+  rotate: false
+  xy: 1649, 178
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-02
+  rotate: false
+  xy: 836, 176
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-03
+  rotate: true
+  xy: 1863, 206
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-05
+  rotate: false
+  xy: 2038, 2
+  size: 8, 20
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-06
+  rotate: false
+  xy: 1933, 205
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+cloth/3009/hero-back-cloth-3009-08
+  rotate: false
+  xy: 1203, 196
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-01
+  rotate: false
+  xy: 1287, 217
+  size: 19, 27
+  orig: 20, 27
+  offset: 1, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-02
+  rotate: false
+  xy: 1149, 196
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-03
+  rotate: true
+  xy: 1931, 176
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-04
+  rotate: true
+  xy: 524, 136
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-05
+  rotate: false
+  xy: 1769, 192
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-06
+  rotate: false
+  xy: 1966, 208
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+cloth/3010/hero-back-cloth-3010-08
+  rotate: false
+  xy: 1836, 167
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+cloth/3011/hero-back-cloth-3011-01
+  rotate: true
+  xy: 1644, 158
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+cloth/3011/hero-back-cloth-3011-03
+  rotate: false
+  xy: 1931, 194
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+cloth/3011/hero-back-cloth-3011-06
+  rotate: true
+  xy: 1915, 205
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+cloth/3011/hero-back-cloth-3011-08
+  rotate: true
+  xy: 2034, 159
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-01
+  rotate: true
+  xy: 575, 154
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-02
+  rotate: false
+  xy: 1809, 193
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-03
+  rotate: true
+  xy: 2008, 236
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-05
+  rotate: true
+  xy: 525, 106
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-06
+  rotate: false
+  xy: 1603, 216
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+cloth/3012/hero-back-cloth-3012-08
+  rotate: true
+  xy: 1780, 170
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+cloth/3013/hero-back-cloth-3013-01
+  rotate: true
+  xy: 1699, 184
+  size: 19, 23
+  orig: 19, 24
+  offset: 0, 1
+  index: -1
+cloth/3013/hero-back-cloth-3013-02
+  rotate: false
+  xy: 1795, 191
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+cloth/3013/hero-back-cloth-3013-03
+  rotate: false
+  xy: 1914, 217
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+cloth/3013/hero-back-cloth-3013-05
+  rotate: false
+  xy: 1781, 193
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+cloth/3013/hero-back-cloth-3013-06
+  rotate: false
+  xy: 1967, 197
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+cloth/3013/hero-back-cloth-3013-08
+  rotate: false
+  xy: 1468, 231
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+cloth/3014/hero-back-cloth-3014-01
+  rotate: false
+  xy: 1308, 196
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+cloth/3014/hero-back-cloth-3014-03
+  rotate: false
+  xy: 1863, 195
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+cloth/3014/hero-back-cloth-3014-05
+  rotate: false
+  xy: 2022, 236
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+cloth/3014/hero-back-cloth-3014-06
+  rotate: false
+  xy: 1634, 75
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+cloth/3014/hero-back-cloth-3014-08
+  rotate: true
+  xy: 1794, 169
+  size: 20, 12
+  orig: 20, 13
+  offset: 0, 1
+  index: -1
+cloth/3015/hero-back-cloth-3015-01
+  rotate: false
+  xy: 407, 123
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+cloth/3015/hero-back-cloth-3015-02
+  rotate: false
+  xy: 1772, 215
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+cloth/3015/hero-back-cloth-3015-03
+  rotate: false
+  xy: 508, 150
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+cloth/3015/hero-back-cloth-3015-05
+  rotate: true
+  xy: 448, 126
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+cloth/3015/hero-back-cloth-3015-06
+  rotate: true
+  xy: 1880, 193
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+cloth/3015/hero-back-cloth-3015-08
+  rotate: true
+  xy: 474, 126
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-01
+  rotate: true
+  xy: 646, 138
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-02
+  rotate: true
+  xy: 1009, 233
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-03
+  rotate: false
+  xy: 1577, 215
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-05
+  rotate: false
+  xy: 496, 126
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-06
+  rotate: true
+  xy: 1531, 216
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+cloth/3016/hero-back-cloth-3016-08
+  rotate: false
+  xy: 1724, 191
+  size: 21, 12
+  orig: 22, 12
+  offset: 1, 0
+  index: -1
+cloth/3017/hero-back-cloth-3017-01
+  rotate: true
+  xy: 1152, 224
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+cloth/3017/hero-back-cloth-3017-02
+  rotate: false
+  xy: 1750, 215
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+cloth/3017/hero-back-cloth-3017-03
+  rotate: true
+  xy: 2034, 230
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+cloth/3017/hero-back-cloth-3017-05
+  rotate: false
+  xy: 1747, 192
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+cloth/3017/hero-back-cloth-3017-06
+  rotate: false
+  xy: 1881, 206
+  size: 15, 9
+  orig: 15, 10
+  offset: 0, 1
+  index: -1
+cloth/3017/hero-back-cloth-3017-08
+  rotate: false
+  xy: 1951, 160
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-01
+  rotate: false
+  xy: 1083, 202
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-02
+  rotate: true
+  xy: 1643, 225
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-03
+  rotate: true
+  xy: 1898, 205
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-04
+  rotate: false
+  xy: 2008, 223
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-05
+  rotate: false
+  xy: 1516, 171
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-06
+  rotate: false
+  xy: 1915, 193
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-07
+  rotate: false
+  xy: 1909, 232
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+cloth/3018/hero-back-cloth-3018-08
+  rotate: false
+  xy: 1885, 159
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-01
+  rotate: true
+  xy: 1677, 205
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-02
+  rotate: true
+  xy: 937, 230
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-03
+  rotate: true
+  xy: 507, 139
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-05
+  rotate: true
+  xy: 1339, 231
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-06
+  rotate: false
+  xy: 1801, 233
+  size: 15, 11
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+cloth/3019/hero-back-cloth-3019-08
+  rotate: true
+  xy: 1786, 145
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-01
+  rotate: false
+  xy: 407, 150
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-02
+  rotate: true
+  xy: 1670, 225
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-03
+  rotate: false
+  xy: 2038, 46
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-04
+  rotate: false
+  xy: 496, 145
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-05
+  rotate: true
+  xy: 1697, 225
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-06
+  rotate: false
+  xy: 1809, 183
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+cloth/3020/hero-back-cloth-3020-08
+  rotate: false
+  xy: 1910, 159
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-01
+  rotate: false
+  xy: 1113, 196
+  size: 34, 26
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-02
+  rotate: false
+  xy: 1960, 232
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-03
+  rotate: false
+  xy: 2008, 197
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-04
+  rotate: true
+  xy: 549, 134
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-05
+  rotate: false
+  xy: 1922, 232
+  size: 11, 12
+  orig: 11, 13
+  offset: 0, 1
+  index: -1
+cloth/3021/hero-back-cloth-3021-06
+  rotate: false
+  xy: 508, 162
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+cloth/3021/hero-back-cloth-3021-08
+  rotate: false
+  xy: 1491, 231
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-01
+  rotate: true
+  xy: 1577, 171
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-02
+  rotate: true
+  xy: 1975, 160
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-03
+  rotate: true
+  xy: 2008, 212
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-05
+  rotate: true
+  xy: 1885, 176
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-06
+  rotate: false
+  xy: 1979, 209
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+cloth/3022/hero-back-cloth-3022-08
+  rotate: false
+  xy: 1610, 75
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+cloth/3023/hero-back-cloth-3023-01
+  rotate: false
+  xy: 988, 201
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+cloth/3023/hero-back-cloth-3023-03
+  rotate: false
+  xy: 1949, 197
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+cloth/3023/hero-back-cloth-3023-05
+  rotate: true
+  xy: 672, 138
+  size: 15, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+cloth/3023/hero-back-cloth-3023-06
+  rotate: false
+  xy: 1824, 193
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+cloth/3023/hero-back-cloth-3023-08
+  rotate: true
+  xy: 1605, 195
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-01
+  rotate: true
+  xy: 1860, 165
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-02
+  rotate: false
+  xy: 602, 106
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-03
+  rotate: false
+  xy: 2034, 180
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-05
+  rotate: true
+  xy: 1724, 225
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-06
+  rotate: false
+  xy: 1863, 182
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+cloth/3024/hero-back-cloth-3024-08
+  rotate: true
+  xy: 2038, 24
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-01
+  rotate: true
+  xy: 1621, 178
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-03
+  rotate: false
+  xy: 1852, 184
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-04
+  rotate: false
+  xy: 534, 121
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-05
+  rotate: false
+  xy: 1697, 158
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-06
+  rotate: false
+  xy: 1993, 197
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+cloth/3025/hero-back-cloth-3025-08
+  rotate: false
+  xy: 601, 157
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-01
+  rotate: false
+  xy: 430, 143
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-02
+  rotate: true
+  xy: 1464, 192
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-04
+  rotate: false
+  xy: 561, 127
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-05
+  rotate: false
+  xy: 1605, 171
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-06
+  rotate: true
+  xy: 1937, 216
+  size: 14, 10
+  orig: 15, 11
+  offset: 1, 0
+  index: -1
+cloth/3026/hero-back-cloth-3026-08
+  rotate: false
+  xy: 623, 138
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-01
+  rotate: false
+  xy: 1380, 198
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-02
+  rotate: true
+  xy: 1176, 190
+  size: 24, 25
+  orig: 24, 26
+  offset: 0, 1
+  index: -1
+cloth/3027/hero-back-cloth-3027-03
+  rotate: true
+  xy: 1418, 231
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-04
+  rotate: false
+  xy: 1935, 232
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-05
+  rotate: true
+  xy: 1577, 193
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-06
+  rotate: false
+  xy: 880, 235
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-07
+  rotate: false
+  xy: 1902, 217
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+cloth/3027/hero-back-cloth-3027-08
+  rotate: false
+  xy: 1090, 231
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+cloth/3028/hero-back-cloth-3028-01
+  rotate: false
+  xy: 452, 143
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+cloth/3028/hero-back-cloth-3028-02
+  rotate: false
+  xy: 1214, 217
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+cloth/3028/hero-back-cloth-3028-03
+  rotate: true
+  xy: 1514, 231
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+cloth/3028/hero-back-cloth-3028-06
+  rotate: true
+  xy: 507, 122
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+cloth/3028/hero-back-cloth-3028-08
+  rotate: false
+  xy: 1818, 232
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-01
+  rotate: true
+  xy: 1621, 200
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-02
+  rotate: false
+  xy: 1264, 217
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-03
+  rotate: false
+  xy: 1924, 216
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-04
+  rotate: false
+  xy: 1610, 63
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-05
+  rotate: false
+  xy: 1717, 158
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-06
+  rotate: false
+  xy: 1750, 237
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+cloth/3029/hero-back-cloth-3029-08
+  rotate: false
+  xy: 1482, 213
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-01
+  rotate: true
+  xy: 575, 106
+  size: 21, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-02
+  rotate: true
+  xy: 1013, 201
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-03
+  rotate: false
+  xy: 1702, 205
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-04
+  rotate: false
+  xy: 1852, 232
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-05
+  rotate: true
+  xy: 1047, 202
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-06
+  rotate: false
+  xy: 1726, 205
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+cloth/3030/hero-back-cloth-3030-08
+  rotate: true
+  xy: 703, 76
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+cloth/3031/hero-back-cloth-3031-01
+  rotate: true
+  xy: 1649, 205
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+cloth/3031/hero-back-cloth-3031-02
+  rotate: true
+  xy: 1951, 177
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+cloth/3031/hero-back-cloth-3031-03
+  rotate: true
+  xy: 1836, 232
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+cloth/3031/hero-back-cloth-3031-06
+  rotate: false
+  xy: 1834, 218
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+cloth/3031/hero-back-cloth-3031-08
+  rotate: true
+  xy: 430, 120
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-01
+  rotate: true
+  xy: 1117, 224
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-02
+  rotate: true
+  xy: 792, 72
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-03
+  rotate: false
+  xy: 1852, 203
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-04
+  rotate: false
+  xy: 1877, 217
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-05
+  rotate: true
+  xy: 413, 87
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-06
+  rotate: false
+  xy: 1897, 193
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+cloth/3032/hero-back-cloth-3032-08
+  rotate: false
+  xy: 474, 153
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+cloth/3033/hero-back-cloth-3033-01
+  rotate: true
+  xy: 1729, 166
+  size: 23, 25
+  orig: 24, 32
+  offset: 0, 4
+  index: -1
+cloth/3033/hero-back-cloth-3033-02
+  rotate: false
+  xy: 1335, 196
+  size: 23, 33
+  orig: 30, 34
+  offset: 7, 0
+  index: -1
+cloth/3033/hero-back-cloth-3033-03
+  rotate: false
+  xy: 2014, 159
+  size: 18, 14
+  orig: 18, 22
+  offset: 0, 2
+  index: -1
+cloth/3033/hero-back-cloth-3033-04
+  rotate: false
+  xy: 1882, 232
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+cloth/3033/hero-back-cloth-3033-05
+  rotate: false
+  xy: 1401, 194
+  size: 22, 31
+  orig: 23, 37
+  offset: 0, 5
+  index: -1
+cloth/3033/hero-back-cloth-3033-06
+  rotate: false
+  xy: 1789, 215
+  size: 10, 22
+  orig: 25, 26
+  offset: 7, 0
+  index: -1
+cloth/3033/hero-back-cloth-3033-07
+  rotate: false
+  xy: 561, 139
+  size: 11, 10
+  orig: 11, 15
+  offset: 0, 1
+  index: -1
+cloth/3033/hero-back-cloth-3033-08
+  rotate: false
+  xy: 1909, 176
+  size: 20, 15
+  orig: 39, 30
+  offset: 10, 5
+  index: -1
+cloth/3034/hero-back-cloth-3034-01
+  rotate: false
+  xy: 830, 71
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-02
+  rotate: false
+  xy: 1618, 222
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-03
+  rotate: false
+  xy: 523, 122
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-04
+  rotate: false
+  xy: 536, 147
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-05
+  rotate: true
+  xy: 544, 109
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-06
+  rotate: false
+  xy: 1991, 221
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-07
+  rotate: false
+  xy: 1972, 232
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+cloth/3034/hero-back-cloth-3034-08
+  rotate: false
+  xy: 506, 106
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-01
+  rotate: false
+  xy: 1240, 217
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-02
+  rotate: true
+  xy: 1732, 143
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-03
+  rotate: false
+  xy: 688, 155
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-04
+  rotate: false
+  xy: 547, 121
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-05
+  rotate: true
+  xy: 1811, 145
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-06
+  rotate: true
+  xy: 1863, 217
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-07
+  rotate: false
+  xy: 1984, 232
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+cloth/3035/hero-back-cloth-3035-08
+  rotate: false
+  xy: 625, 157
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-01
+  rotate: true
+  xy: 1860, 145
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-02
+  rotate: true
+  xy: 1836, 145
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-03
+  rotate: false
+  xy: 1935, 159
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-04
+  rotate: true
+  xy: 549, 147
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-05
+  rotate: true
+  xy: 1756, 170
+  size: 20, 22
+  orig: 20, 23
+  offset: 0, 1
+  index: -1
+cloth/3036/hero-back-cloth-3036-06
+  rotate: false
+  xy: 1835, 192
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-07
+  rotate: true
+  xy: 2021, 225
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+cloth/3036/hero-back-cloth-3036-08
+  rotate: false
+  xy: 1972, 177
+  size: 19, 17
+  orig: 21, 17
+  offset: 2, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-01
+  rotate: true
+  xy: 1536, 225
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-02
+  rotate: true
+  xy: 1759, 145
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-03
+  rotate: false
+  xy: 1342, 122
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-05
+  rotate: false
+  xy: 497, 153
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-06
+  rotate: false
+  xy: 2034, 218
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+cloth/3037/hero-back-cloth-3037-08
+  rotate: false
+  xy: 648, 155
+  size: 24, 19
+  orig: 25, 19
+  offset: 1, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-01
+  rotate: false
+  xy: 1180, 216
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-02
+  rotate: false
+  xy: 1360, 196
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-03
+  rotate: false
+  xy: 1801, 212
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-05
+  rotate: false
+  xy: 2034, 200
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-06
+  rotate: false
+  xy: 1308, 232
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+cloth/3038/hero-back-cloth-3038-08
+  rotate: true
+  xy: 1563, 189
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2000
+  rotate: false
+  xy: 1578, 91
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2001
+  rotate: false
+  xy: 1932, 2
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2002
+  rotate: false
+  xy: 998, 2
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2003
+  rotate: true
+  xy: 390, 181
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2004
+  rotate: false
+  xy: 778, 102
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2005
+  rotate: false
+  xy: 1782, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2006
+  rotate: false
+  xy: 988, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2007
+  rotate: true
+  xy: 75, 169
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2008
+  rotate: false
+  xy: 703, 102
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2009
+  rotate: false
+  xy: 716, 2
+  size: 93, 68
+  orig: 93, 68
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2010
+  rotate: true
+  xy: 988, 71
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2011
+  rotate: true
+  xy: 1767, 80
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2012
+  rotate: false
+  xy: 1136, 72
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2013
+  rotate: true
+  xy: 1359, 73
+  size: 55, 74
+  orig: 55, 76
+  offset: 0, 2
+  index: -1
+helm/hero-back-helm-2014
+  rotate: false
+  xy: 1532, 2
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2015
+  rotate: false
+  xy: 811, 2
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2016
+  rotate: false
+  xy: 1828, 78
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2017
+  rotate: true
+  xy: 623, 76
+  size: 60, 78
+  orig: 63, 78
+  offset: 3, 0
+  index: -1
+helm/hero-back-helm-2018
+  rotate: false
+  xy: 1271, 2
+  size: 86, 74
+  orig: 86, 83
+  offset: 0, 9
+  index: -1
+helm/hero-back-helm-2019
+  rotate: false
+  xy: 575, 176
+  size: 57, 68
+  orig: 57, 72
+  offset: 0, 4
+  index: -1
+helm/hero-back-helm-2020
+  rotate: true
+  xy: 1271, 78
+  size: 60, 69
+  orig: 61, 69
+  offset: 1, 0
+  index: -1
+helm/hero-back-helm-2021
+  rotate: false
+  xy: 762, 176
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2022
+  rotate: true
+  xy: 849, 143
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2023
+  rotate: false
+  xy: 623, 2
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2024
+  rotate: true
+  xy: 1062, 72
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2025
+  rotate: true
+  xy: 1622, 2
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2026
+  rotate: true
+  xy: 332, 123
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2027
+  rotate: true
+  xy: 1445, 2
+  size: 65, 85
+  orig: 65, 89
+  offset: 0, 4
+  index: -1
+helm/hero-back-helm-2028
+  rotate: false
+  xy: 917, 71
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2029
+  rotate: false
+  xy: 1858, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2030
+  rotate: false
+  xy: 538, 2
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2031
+  rotate: true
+  xy: 1359, 2
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2032
+  rotate: false
+  xy: 1089, 2
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2033
+  rotate: false
+  xy: 448, 2
+  size: 88, 84
+  orig: 93, 87
+  offset: 3, 2
+  index: -1
+helm/hero-back-helm-2034
+  rotate: true
+  xy: 1203, 137
+  size: 57, 61
+  orig: 58, 62
+  offset: 0, 1
+  index: -1
+helm/hero-back-helm-2035
+  rotate: false
+  xy: 169, 2
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2036
+  rotate: true
+  xy: 917, 139
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2037
+  rotate: false
+  xy: 354, 2
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2038
+  rotate: false
+  xy: 2, 169
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2983
+  rotate: false
+  xy: 1108, 134
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2984
+  rotate: false
+  xy: 186, 168
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2985
+  rotate: false
+  xy: 1704, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2986
+  rotate: false
+  xy: 1644, 75
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2987
+  rotate: false
+  xy: 849, 71
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2988
+  rotate: false
+  xy: 1578, 91
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2989
+  rotate: false
+  xy: 1326, 140
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2990
+  rotate: false
+  xy: 319, 181
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2991
+  rotate: false
+  xy: 1885, 76
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2992
+  rotate: false
+  xy: 1700, 80
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2993
+  rotate: false
+  xy: 1054, 135
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2994
+  rotate: false
+  xy: 1266, 140
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2995
+  rotate: false
+  xy: 1207, 72
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2996
+  rotate: false
+  xy: 688, 171
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2997
+  rotate: false
+  xy: 246, 181
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2998
+  rotate: false
+  xy: 634, 176
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+helm/hero-back-helm-2999
+  rotate: false
+  xy: 459, 171
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+hero-back-01a
+  rotate: true
+  xy: 1365, 227
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+hero-back-02a
+  rotate: true
+  xy: 1815, 168
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+hero-back-03a
+  rotate: false
+  xy: 1834, 184
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+hero-back-04a
+  rotate: false
+  xy: 536, 134
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hero-back-05a
+  rotate: false
+  xy: 2019, 175
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+hero-back-06a
+  rotate: false
+  xy: 1826, 212
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+hero-back-07a
+  rotate: false
+  xy: 1867, 232
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+hero-back-08a
+  rotate: false
+  xy: 1949, 219
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hero-back-arrow
+  rotate: false
+  xy: 575, 129
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+hero-back-fx-fire-1
+  rotate: true
+  xy: 1577, 153
+  size: 16, 42
+  orig: 20, 51
+  offset: 1, 3
+  index: -1
+hero-back-fx-fire-2
+  rotate: true
+  xy: 2002, 141
+  size: 16, 44
+  orig: 20, 51
+  offset: 1, 3
+  index: -1
+hero-back-fx-fire-3
+  rotate: true
+  xy: 448, 108
+  size: 16, 45
+  orig: 20, 51
+  offset: 1, 3
+  index: -1
+hero-back-fx-fire-4
+  rotate: true
+  xy: 499, 88
+  size: 16, 47
+  orig: 20, 51
+  offset: 1, 3
+  index: -1
+hero-back-fx-fire-5
+  rotate: true
+  xy: 575, 88
+  size: 16, 46
+  orig: 20, 51
+  offset: 1, 4
+  index: -1
+hero-back-fx-firelight
+  rotate: false
+  xy: 262, 2
+  size: 90, 90
+  orig: 98, 98
+  offset: 4, 3
+  index: -1
+hero-back-head
+  rotate: true
+  xy: 1950, 76
+  size: 53, 50
+  orig: 55, 64
+  offset: 0, 2
+  index: -1
+hero-back-light
+  rotate: false
+  xy: 2, 2
+  size: 165, 165
+  orig: 174, 174
+  offset: 4, 5
+  index: -1
+hero-back-n-foot
+  rotate: false
+  xy: 2039, 134
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+hero-back-n-leg
+  rotate: false
+  xy: 1594, 215
+  size: 7, 8
+  orig: 7, 12
+  offset: 0, 1
+  index: -1
+hero-back-n-upleg
+  rotate: false
+  xy: 2039, 100
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+hero-back-shadow
+  rotate: false
+  xy: 900, 230
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+hero-back-stick
+  rotate: true
+  xy: 1425, 190
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+hero-back-w-foot
+  rotate: false
+  xy: 1764, 237
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hero-back-w-leg
+  rotate: false
+  xy: 1825, 183
+  size: 7, 8
+  orig: 7, 12
+  offset: 0, 1
+  index: -1
+hero-back-w-upleg
+  rotate: false
+  xy: 2039, 117
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-0
+  rotate: true
+  xy: 1644, 144
+  size: 12, 45
+  orig: 20, 80
+  offset: 4, 32
+  index: -1
+weapon/hero-back-weapon-1000
+  rotate: true
+  xy: 1885, 137
+  size: 20, 64
+  orig: 20, 80
+  offset: 0, 16
+  index: -1
+weapon/hero-back-weapon-1001
+  rotate: true
+  xy: 1047, 231
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1002
+  rotate: true
+  xy: 716, 72
+  size: 28, 74
+  orig: 28, 74
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1003
+  rotate: true
+  xy: 1477, 156
+  size: 12, 45
+  orig: 20, 80
+  offset: 4, 32
+  index: -1
+weapon/hero-back-weapon-1004
+  rotate: true
+  xy: 1951, 131
+  size: 27, 49
+  orig: 27, 50
+  offset: 0, 1
+  index: -1
+weapon/hero-back-weapon-1005
+  rotate: false
+  xy: 1380, 130
+  size: 19, 66
+  orig: 20, 80
+  offset: 0, 13
+  index: -1
+weapon/hero-back-weapon-1006
+  rotate: true
+  xy: 249, 123
+  size: 56, 81
+  orig: 66, 100
+  offset: 6, 5
+  index: -1
+weapon/hero-back-weapon-1007
+  rotate: true
+  xy: 1423, 141
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1008
+  rotate: false
+  xy: 1171, 134
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1009
+  rotate: true
+  xy: 1234, 196
+  size: 19, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1010
+  rotate: true
+  xy: 350, 94
+  size: 27, 61
+  orig: 28, 61
+  offset: 1, 0
+  index: -1
+weapon/hero-back-weapon-1011
+  rotate: true
+  xy: 1537, 141
+  size: 22, 38
+  orig: 22, 39
+  offset: 0, 1
+  index: -1
+weapon/hero-back-weapon-1012
+  rotate: false
+  xy: 1401, 130
+  size: 20, 62
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1013
+  rotate: true
+  xy: 1435, 89
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1014
+  rotate: true
+  xy: 1423, 165
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1015
+  rotate: true
+  xy: 1477, 141
+  size: 13, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1016
+  rotate: false
+  xy: 1342, 78
+  size: 15, 42
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1017
+  rotate: true
+  xy: 836, 200
+  size: 33, 62
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1018
+  rotate: true
+  xy: 169, 116
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1019
+  rotate: true
+  xy: 1532, 63
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1020
+  rotate: false
+  xy: 2002, 85
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1021
+  rotate: true
+  xy: 262, 94
+  size: 27, 86
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1022
+  rotate: true
+  xy: 965, 232
+  size: 12, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1023
+  rotate: true
+  xy: 900, 200
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1024
+  rotate: true
+  xy: 836, 235
+  size: 9, 42
+  orig: 9, 42
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1025
+  rotate: true
+  xy: 1445, 69
+  size: 18, 72
+  orig: 18, 72
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1026
+  rotate: true
+  xy: 1507, 91
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1027
+  rotate: true
+  xy: 1180, 2
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1028
+  rotate: true
+  xy: 1473, 170
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1029
+  rotate: false
+  xy: 136, 169
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1030
+  rotate: false
+  xy: 2003, 2
+  size: 33, 81
+  orig: 33, 81
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1031
+  rotate: true
+  xy: 448, 88
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1032
+  rotate: true
+  xy: 906, 2
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+weapon/hero-back-weapon-1033
+  rotate: false
+  xy: 526, 171
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
