@@ -2,6 +2,7 @@ local ziparchive = require "ziparchive"
 local lfs = require "lfs"
 local utils = require "script.lualib.utils"
 local json = require "script.lualib.json"
+local md5 = require "md5"
 
 local apk_files = {}
 
@@ -89,6 +90,18 @@ local function export_patch(old_apk_path, new_apk_path, export_path)
         archive_new:close()
         archive_old:close()
         patch_archive:close()
+
+        -- 将MD5直接写在文件名上
+        local file = io.open(export_path, "r")
+        local data = file:read("*a")
+        local md5_hax = md5.sumhexa(data)
+        local old_name = export_path
+        local new_name = string.gsub(old_name, ".zip", "") .. "-" .. md5_hax..".zip"
+        print("--------------")
+        print(old_name)
+        print(new_name)
+        file:close()
+        local result = os.rename(export_path, new_name)
 end
 
 -- 生成各版本更新包
